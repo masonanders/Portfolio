@@ -2447,6 +2447,13 @@ input, select, textarea {
 			color: #49bf9d !important;
 		}
 
+		input[type="submit"]:focus,
+		input[type="reset"]:focus,
+		input[type="button"]:focus,
+		.button:focus {
+			outline: 0;
+		}
+
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		input[type="button"]:active,
