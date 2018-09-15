@@ -2664,6 +2664,20 @@ input, select, textarea {
 			#footer .copyright li a {
 				color: inherit;
 			}
+	#footer .proficiencies {
+		margin-bottom: 30px;
+	}
+	
+		#footer .proficiencies h5 {
+			color: white;
+			margin-bottom: 5px;
+		}
+
+		#footer .proficiencies a {
+			color: rgba(255, 255, 255, 0.4);
+			border-bottom: none;
+			margin-left: 3px;
+		}
 
 /* Main */
 
