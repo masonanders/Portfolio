@@ -2034,7 +2034,8 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.5;
+			opacity: 0.2;
+			border: 1px solid #444444;
 			position: absolute;
 			top: 0;
 			width: 100%;
